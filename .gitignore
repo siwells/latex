@@ -1,2 +1,6 @@
+latex_quick.start.pdf
 .DS_Store
 *.swp
+*.aux
+*.log
+*.out
